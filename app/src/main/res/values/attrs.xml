@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SpiderWebView">
+        <attr name="webColor" format="color" />
+        <attr name="overlayColor" format="color" />
+        <attr name="textColor" format="color" />
+        <attr name="overlayAlpha" format="integer" />
+        <attr name="tagSize" format="integer" />
+        <attr name="showNumber" format="boolean" />
+    </declare-styleable>
+
+</resources>
